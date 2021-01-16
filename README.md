@@ -16,3 +16,6 @@ The best way to reach me is by emailing [jeffl@konekti.us](mailto:jeffl@konekti.
 I'm active on [LinkedIn](https://www.linkedin.com/in/jeffloughridge/). I occasionally 
 [tweet](https://twitter.com/jeffbrl) when the mood strikes me.
 
+<h3 align="left">Technologies, Languages, and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
